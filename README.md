@@ -1,2 +1,2 @@
-# Class-activities-
-Class activity about introduction to linux &amp; IT Tools
+# Class-activities
+Class activity about introduction to Linux &amp; IT Tools
